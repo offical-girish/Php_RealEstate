@@ -23,6 +23,7 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">About <span class="sr-only">(current)</span></a></li>
+	<li><a href="insert.php">Add property</a></li>      
         <li><a href="#">Contact</a></li>
       </ul>
 
